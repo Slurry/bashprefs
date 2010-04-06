@@ -1,0 +1,5 @@
+alias lss='ls -lhX'
+alias lsa='ls -lha'
+alias lsg='ls -lhaX'
+alias cd='pushd'
+alias dirs='dirs -v|sort -k 2|uniq -f 1'
